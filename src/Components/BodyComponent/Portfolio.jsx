@@ -16,8 +16,8 @@ export const Portfolio = () => {
     const classes = useStyles();
     const portfolioData = [
         {url:image1,title:"MyGlamm Github",visitLink:"https://myglammclone.netlify.app",git:"https://github.com/tauseef-stack/myGlamm",ptitle:"MyGlamm",desc:"Clone of beauty products website myglamm.com.",stack:"HTML | CSS | Java Script.",},
-        {url:image2,title:"GoFundMe Github",visitLink:"https://go-fundme.vercel.app/",git:"https://github.com/Rahul3105/Go_fund_me_clone/tree/main_branch/gofundmeclone_rahul",ptitle:"Go Fund Me",desc:"Clone of fund raising website gofundme.com",stack:": React | HTML | CSS | Java Script | LocalStorage.",},
-        {url:image3,title:"Kayak Github",visitLink:"https://skyscanner-mu.vercel.app/",git:"https://github.com/ravishukla86044/skyscanner",ptitle:"Kayak",desc:"Clone of Hotel Booking website gofundme.com.",stack:": React | HTML | CSS | Java Script | JSON server.",},
+        {url:image2,title:"GoFundMe Github",visitLink:"https://go-fundme.vercel.app/",git:"https://github.com/Rahul3105/Go_fund_me_clone/tree/main_branch/gofundmeclone_rahul",ptitle:"Go Fund Me",desc:"Clone of fund raising website gofundme.com",stack:" React | HTML | CSS | Java Script | LocalStorage.",},
+        {url:image3,title:"Kayak Github",visitLink:"https://skyscanner-mu.vercel.app/",git:"https://github.com/ravishukla86044/skyscanner",ptitle:"Kayak",desc:"Clone of Hotel Booking website gofundme.com.",stack:" React | HTML | CSS | Java Script | JSON server.",},
      
     ]
     return (

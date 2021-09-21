@@ -58,7 +58,7 @@ export const Contact = () => {
                     </Box>
                 </Grid>
                 <Grid item xs={12} sm={7}>
-                    <CommonHeaderSection label="CONTACT ME" headingBig="seems to be interesting" headingSmall="I love working with new people and build websites with exciting problem statements. Connect with me if you like my work!" withIcon={false} isAlign={false} arrowLogo={<ArrowDownwardRoundedIcon/>}/>
+                    <CommonHeaderSection label="CONTACT ME" headingBig="Liked my work? Let us connect" headingSmall="I love working with new people and build websites with exciting problem statements. Connect with me if you like my work!" withIcon={false} isAlign={false} arrowLogo={<ArrowDownwardRoundedIcon/>}/>
                     <br />
                     <Grid container>
                     {cardMediaArr.map((item, i) => {

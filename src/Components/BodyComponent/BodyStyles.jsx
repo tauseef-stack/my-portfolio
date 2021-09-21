@@ -116,7 +116,7 @@ export const useStyles = makeStyles((theme) => ({
         color: "#fff",
         padding: "16px",
         marginTop:"15px",
-        border:"1px solid #fff"
+        boxShadow: "5px 5px 10px #fff"
     },
 
 
