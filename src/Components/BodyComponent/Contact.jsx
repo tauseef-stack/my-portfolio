@@ -44,7 +44,7 @@ export const Contact = () => {
         {
             Icon: <Link href="https://drive.google.com/file/d/1_7h8Wj3aXPnZdf9CKi4kGLNGNAV6i2es/view?usp=sharing" target="_blank" underline="hover" style={{color:"#fff"}}><ReorderRoundedIcon/></Link>,
             label: "Resume",
-            desc:"https://drive.google.com/file/d/1_7h8Wj3aXPnZdf9CKi4kGLNGNAV6i2es/view?usp=sharing"
+            desc:"https://drive.google.com/file/d/1WwF96qqlSp1jemQY0DFZQFRpYIaz-hjS/view?usp=share_link"
         },
    ]
     return (
